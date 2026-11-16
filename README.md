@@ -64,7 +64,7 @@
 </p>
 
 ## 🛠️ Tools & Statistics      
-- Programming Frameworks and Libraries<br>
+- ML Frameworks and Libraries<br>
 
     <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
     <a href="https://keras.io/" target="_blank"><img alt="Keras" height="23px" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" /></a>
@@ -79,7 +79,7 @@
     <img alt="C" height="23px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" height="23px" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /></a> <img alt="Windows 10" height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-- Frameworks & Technologies<br>
+- Web Frameworks & Technologies<br>
 
     <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" height="23px" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
     <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" height="23px" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" /></a>
