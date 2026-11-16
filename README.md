@@ -13,7 +13,7 @@
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://komarev.com/ghpvc/?username=XAheli&style=for-the-badge&color=46b9b9&label=You+are+Visitor&base=3985" alt="GitHub Profile Views Counter" /></td>
+    <td><img src="https://komarev.com/ghpvc/?username=Pritam27112004&style=for-the-badge&color=46b9b9&label=You+are+Visitor" alt="GitHub Profile Views Counter" /></td>
   </tr>
 </table>
 </div>
@@ -111,8 +111,5 @@ Tools & Platforms<br>
   </picture>
 </a>
 
-
-
-
-
-![Pritam Paul](./Animated Sunset Valley with Sleeping Cat.gif)
+<div id="header" align="center">
+  <img align="center" width=750px height=350px alt="side_sticker" src="./Pritam27112004\Animated Sunset Valley with Sleeping Cat.gif" />
