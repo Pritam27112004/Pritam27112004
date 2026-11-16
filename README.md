@@ -68,33 +68,33 @@
     <img alt="C" height="23px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" height="23px" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /></a> <img alt="Windows 10" height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
--Frameworks & Technologies<br>
+- Frameworks & Technologies<br>
 
-<a href="https://nodejs.org/" target="_blank"><img alt="Node.js" height="23px" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-<a href="https://expressjs.com/" target="_blank"><img alt="Express.js" height="23px" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" /></a>
-<a href="https://restfulapi.net/" target="_blank"><img alt="REST API" height="23px" src="https://img.shields.io/badge/REST_API-02569B.svg?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" height="23px" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" height="23px" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="https://react.dev/" target="_blank"><img alt="React.js" height="23px" src="https://img.shields.io/badge/React.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" height="23px" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+    <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" height="23px" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+    <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" height="23px" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" /></a>
+    <a href="https://restfulapi.net/" target="_blank"><img alt="REST API" height="23px" src="https://img.shields.io/badge/REST_API-02569B.svg?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img alt="HTML5" height="23px" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" height="23px" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+    <a href="https://react.dev/" target="_blank"><img alt="React.js" height="23px" src="https://img.shields.io/badge/React.js-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+    <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" height="23px" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
 
-Databases<br>
+- Databases<br>
 
-<a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" height="23px" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="23px" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" height="23px" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" height="23px" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="23px" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" height="23px" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 
-Tools & Platforms<br>
+- Tools & Platforms<br>
 
-<a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" height="23px" src="https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
-<a href="https://git-scm.com/" target="_blank"><img alt="Git" height="23px" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://github.com/" target="_blank"><img alt="GitHub" height="23px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.databricks.com/" target="_blank"><img alt="Databricks" height="23px" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" /></a>
-<a href="https://www.postman.com/" target="_blank"><img alt="Postman" height="23px" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" /></a>
-<a href="https://vercel.com/" target="_blank"><img alt="Vercel" height="23px" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://render.com/" target="_blank"><img alt="Render" height="23px" src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" /></a>
-<a href="https://colab.research.google.com/" target="_blank"><img alt="Google Colab" height="23px" src="https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" /></a>
-<a href="https://www.jetbrains.com/" target="_blank"><img alt="JetBrains" height="23px" src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" height="23px" src="https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" height="23px" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://github.com/" target="_blank"><img alt="GitHub"  height="23px" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.databricks.com/" target="_blank"><img alt="Databricks" height="23px" src="https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img alt="Postman" height="23px" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" /></a>
+  <a href="https://vercel.com/" target="_blank"><img alt="Vercel" height="23px" src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://render.com/" target="_blank"><img alt="Render" height="23px" src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black" /></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img alt="Google Colab" height="23px" src="https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/" target="_blank"><img alt="JetBrains" height="23px" src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /></a>
 
 <div align="center">
   
@@ -111,11 +111,10 @@ Tools & Platforms<br>
   </picture>
 </a>
 
-<div id="header" align="center">
+<div align="center">
   <img
-    align="center"
-    width="750px"
-    height="350px"
+    width="750"
+    height="350"
     alt="Animated Sunset Valley with Sleeping Cat"
     src="./Animated%20Sunset%20Valley%20with%20Sleeping%20Cat.gif"
   />
