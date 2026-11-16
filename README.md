@@ -23,9 +23,11 @@
 <br>
 <p><em>Keep Learning Keep Solving,  &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
+<p><em>
+Keep Learning, Keep Solving
+<img src="https://media.giphy.com/media/2ytQpK4BTs1yyYcTVc/giphy.gif" width="30" />
+</em></p>
 <br>
-
 <p>
     <a href="https://x.com/pritam_pau73310"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971257-f667150e-17c2-469c-8f9f-24810c4ab522.svg"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/pritam-paul-530660306/"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971352-d164e286-ffd8-4aac-a95b-88e499cdc386.svg"></a>&nbsp;&nbsp;
