@@ -51,10 +51,10 @@
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> A little more about me...</h2>
 
 - 🔍 Exploring the fascinating intersection of Computer Science, Mathematics.
-- 🧠 Passionate about Machine Learning, Deep Learning, and Generative AI.
-- ⚙️ Currently exploring LLMs, AI Agents, RAG architectures, and Data Engineering.
-- 🔬 Interested in applying computational intelligence to solve meaningful problems.
-- 🌐 Building things with MERN, Python, Java, and modern AI technologies.
+- 🧠 Working in Machine Learning, Deep Learning, Generative AI, RAG, AI Engineering, Data Engineering, Full-Stack Dev.
+- ⚙️ Currently exploring LLMs, AI Agents and Data Engineering.
+- 🔬 Want to solve meaningful problems of our society with AI.
+- 🌐 Building things with ML/DL, MERN, Python, Java, and modern AI technologies.
 - 📚 Always curious about the science behind intelligent systems.
 - 📫 Let's connect: Always open to research and project collaborations, and interesting technical discussions! @paulpritam417@gmail.com
 
