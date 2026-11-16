@@ -31,6 +31,18 @@
     <a href="https://discord.com/users/1287484148201554081"><img height="30" src="https://user-images.githubusercontent.com/48355572/207971778-7a331eb0-d413-4a03-a142-1370a89f6cb2.svg"></a>&nbsp;&nbsp;
     <a href="https://gitlab.com/paulpritam417"><img height="29" src="https://user-images.githubusercontent.com/48355572/229457184-524c372d-8067-48ac-a09e-444010da9ffd.png"></a>&nbsp;&nbsp;
     <a href="https://www.youtube.com/@pritampaul2368"><img height="30" src="https://user-images.githubusercontent.com/48355572/226551770-c02e6606-b4bf-4cfa-9f95-e36147025a5d.svg"></a>&nbsp;&nbsp;
+    <a href="https://scholar.google.com/citations?user=dH8uodsAAAAJ&hl=en" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+    </a>&nbsp;&nbsp;
+    <a href="https://pritam-paul-omega.vercel.app/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Personal_Website-2EC8F7?style=flat&logo=googlechrome&logoColor=white" alt="Personal Website" />
+    </a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/Pr27-2004Paul/" target="_blank">
+    <img height="30" src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" />
+    </a>&nbsp;&nbsp;
+    <a href="https://codolio.com/profile/pritampp" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Codolio-Profile-2EC8F7?style=flat&logo=codeforces&logoColor=white" alt="Codolio" />
+    </a>&nbsp;&nbsp;
     
 </p>
 
