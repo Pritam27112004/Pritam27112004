@@ -20,12 +20,9 @@
 
 
 </h1>
+<img align="right" width=280px height=150px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGh6dDlhYmRrOTc3NTg1a3YyZGZ2dnFpOGZxMGF4bXJ3aG01NG9yaiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l49FuUXCLXbzwJKo0/giphy.gif" />
 <br>
 <p><em>Keep Learning Keep Solving,  &nbsp<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<p><em>
-Keep Learning, Keep Solving
-<img src="https://media.giphy.com/media/2ytQpK4BTs1yyYcTVc/giphy.gif" width="30" />
 </em></p>
 <br>
 <p>
