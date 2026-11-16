@@ -68,7 +68,7 @@
     <img alt="C" height="23px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <a href="https://www.latex-project.org/" target="_blank"><img alt="LaTeX" height="23px" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" /></a> <img alt="Windows 10" height="23px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-Frameworks & Technologies<br>
+-Frameworks & Technologies<br>
 
 <a href="https://nodejs.org/" target="_blank"><img alt="Node.js" height="23px" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
 <a href="https://expressjs.com/" target="_blank"><img alt="Express.js" height="23px" src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" /></a>
@@ -112,4 +112,11 @@ Tools & Platforms<br>
 </a>
 
 <div id="header" align="center">
-  <img align="center" width=750px height=350px alt="side_sticker" src="./Pritam27112004\Animated Sunset Valley with Sleeping Cat.gif" />
+  <img
+    align="center"
+    width="750px"
+    height="350px"
+    alt="Animated Sunset Valley with Sleeping Cat"
+    src="./Animated%20Sunset%20Valley%20with%20Sleeping%20Cat.gif"
+  />
+</div>
